@@ -1,0 +1,16 @@
+Nov 09, 2026 2:18:13 PM MarksImporter main
+SEVERE: FileNotFoundException - marks.txt (The system cannot find the file specified)
+Nov 09, 2026 3:06:34 PM MarksImporter main
+SEVERE: FileNotFoundException - marks.txt (The system cannot find the file specified)
+Nov 09, 2026 3:09:36 PM MarksImporter importMarks
+WARNING: Line 2 skipped: NumberFormatException - For input string: "ABC"
+Nov 09, 2026 3:09:36 PM MarksImporter importMarks
+WARNING: Line 3 skipped: DuplicateStudentException - Duplicate student number: ICT001
+Nov 09, 2026 3:09:36 PM MarksImporter importMarks
+WARNING: Line 5 skipped: IllegalArgumentException - Mark must be between 0 and 100 but was 120
+Nov 09, 2026 3:13:56 PM MarksImporter importMarks
+WARNING: Line 2 skipped: NumberFormatException - For input string: "ABC"
+Nov 09, 2026 3:13:56 PM MarksImporter importMarks
+WARNING: Line 3 skipped: DuplicateStudentException - Duplicate student number: ICT001
+Nov 09, 2026 3:13:56 PM MarksImporter importMarks
+WARNING: Line 5 skipped: IllegalArgumentException - Mark must be between 0 and 100 but was 120
